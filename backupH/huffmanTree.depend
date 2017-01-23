@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1478809363 source:c:\users\matt\documents\computer science\datastructures\huffmantree\huffmantree\main.cpp
+	<iostream>
+	"buildTree.h"
+	"generalFunctions.h"
+
+1478812289 c:\users\matt\documents\computer science\datastructures\huffmantree\huffmantree\buildtree.h
+	<iostream>
+	<fstream>
+
+1478812598 source:c:\users\matt\documents\computer science\datastructures\huffmantree\huffmantree\buildtree.cpp
+	"buildTree.h"
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<fstream>
+
+1478812365 source:c:\users\matt\documents\computer science\datastructures\huffmantree\huffmantree\generalfunctions.cpp
+	"generalFunctions.h"
+	"buildTree.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+
+1478811316 c:\users\matt\documents\computer science\datastructures\huffmantree\huffmantree\generalfunctions.h
+	"buildTree.h"
+	<fstream>
+
